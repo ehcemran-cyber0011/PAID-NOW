@@ -1,3 +1,3 @@
 import os
 import HT
-HT.Loging()
+HT.loging()
